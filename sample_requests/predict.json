@@ -1,0 +1,16 @@
+{
+  "heart_rate": 156,
+  "body_temperature": 37.4,
+  "hydration_level": 58,
+  "sleep_quality": 4.8,
+  "recovery_score": 46,
+  "stress_level": 0.71,
+  "training_intensity": 8.2,
+  "training_duration": 105,
+  "training_load": 820,
+  "fatigue_index": 78,
+  "sport_type": "Soccer",
+  "gender": "Female",
+  "age": 24,
+  "bmi": 22.8
+}

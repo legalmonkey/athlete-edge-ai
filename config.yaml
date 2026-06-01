@@ -1,0 +1,32 @@
+random_state: 42
+target_positive_rule: any_positive
+precision_minimum: 0.80
+max_false_positive_rate: 0.20
+threshold_grid_size: 199
+risk_thresholds:
+  low: 0.30
+  high: 0.70
+data:
+  multimodal: data/multimodal
+  sirp600: data/sirp600
+  runners: data/runners
+  optional: data/optional
+training:
+  test_size: 0.15
+  validation_size: 0.20
+  tune_models: true
+  n_iter_search: 4
+  cv_folds: 3
+  use_gpu: true
+  gpu_device_id: 0
+  gpu_only_models: true
+  include_logistic_regression: true
+  permutation_repeats: 2
+  report_sample_size: 3000
+  shap_sample_size: 100
+  use_smote: false
+  optimize_with_optuna: false
+  enable_mlflow: false
+outputs:
+  models_dir: models
+  reports_dir: outputs

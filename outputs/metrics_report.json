@@ -1,0 +1,35 @@
+{
+  "decision_threshold": 0.6187878787878788,
+  "positive_rate_train": 0.09528929411090085,
+  "selected_model": "weighted_ensemble",
+  "test": {
+    "brier": 0.018362424023520427,
+    "ece": 0.0020769718196733686,
+    "f1": 0.011494252873563218,
+    "false_negatives": 343,
+    "false_positive_rate": 6.647610184138802e-05,
+    "false_positives": 1,
+    "pr_auc": 0.2531557874931025,
+    "precision": 0.6666666666666666,
+    "recall": 0.005797101449275362,
+    "roc_auc": 0.8168962019023726,
+    "threshold": 0.6187878787878788,
+    "true_negatives": 15042,
+    "true_positives": 2
+  },
+  "validation": {
+    "brier": 0.018564993811331924,
+    "ece": 0.003691959832492832,
+    "f1": 0.024271844660194174,
+    "false_negatives": 402,
+    "false_positive_rate": 0.0,
+    "false_positives": 0,
+    "pr_auc": 0.2990412306949876,
+    "precision": 1.0,
+    "recall": 0.012285012285012284,
+    "roc_auc": 0.8522206712190861,
+    "threshold": 0.6187878787878788,
+    "true_negatives": 17033,
+    "true_positives": 5
+  }
+}

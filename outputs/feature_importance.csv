@@ -1,0 +1,337 @@
+feature,importance
+source_dataset,0.15090292690623905
+perceived trainingSuccess.1_lag_1,0.023352920328212498
+perceived trainingSuccess.2_roll3_mean,0.02102166408329663
+strength training.2_roll3_mean,0.015355350991904743
+strength training.1_lag_1,0.015223619311021674
+perceived recovery.1_roll7_mean,0.014934243343999454
+strength training_roll3_std,0.01325678039814951
+total km.4,0.013001757823295879
+perceived trainingSuccess.2_change_rate,0.012854241075554856
+perceived exertion.6,0.012786169707619269
+perceived trainingSuccess.1_roll7_mean,0.01133521260710045
+nr. sessions.4,0.011101336626350836
+total km.6,0.010877064947034332
+perceived recovery,0.010397346365350474
+nr. sessions.3,0.009284437988371405
+perceived exertion.1_roll3_mean,0.008165496392062654
+perceived trainingSuccess.6,0.007284780731076718
+perceived trainingSuccess.2_roll7_mean,0.007246218110807501
+strength training.2_roll7_mean,0.006995192367294387
+total km.3,0.006496304298896416
+perceived exertion_lag_1,0.006084334979091402
+perceived recovery.6,0.005778660447727721
+hours alternative.4,0.005241602724862529
+perceived trainingSuccess.5,0.004795629518795294
+strength training.1,0.004743384677262208
+perceived exertion.1_roll7_std,0.00461597839221832
+perceived trainingSuccess.1_roll3_std,0.004406853483041956
+perceived exertion.1_change_rate,0.004387501829912169
+strength training_roll7_mean,0.00438020767539303
+total km.2,0.004289924138574153
+max exertion,0.00414959743019111
+strength training.2_lag_1,0.004093297197959284
+km Z5-T1-T2.1,0.0037563773060488997
+perceived trainingSuccess_roll7_std,0.0035461439544993423
+perceived exertion_roll3_mean,0.0033244746047526447
+perceived trainingSuccess_roll3_mean,0.003201457760093243
+perceived recovery_lag_1,0.003137873243738945
+perceived trainingSuccess.2_lag_1,0.0030369084098364613
+total km,0.0029817629355054914
+perceived recovery.1_roll3_mean,0.0027732648705145885
+total km Z5-T1-T2.2,0.002567762907082674
+perceived trainingSuccess_roll3_std,0.0024933101971363614
+km Z3-4.3,0.002431213421400971
+strength training_change_rate,0.0021604594781366865
+perceived trainingSuccess.2_roll7_std,0.0020780452355673024
+strength training.4,0.0019001614423048152
+hours alternative.6,0.0018553686970849553
+max km Z5-T1-T2 one day.2,0.0018456083275475849
+nr. sessions.6,0.001821435276918762
+perceived recovery_roll3_mean,0.001590240195495099
+perceived trainingSuccess_change_rate,0.0014614787396611678
+perceived trainingSuccess.1_change_rate,0.0009479179149774197
+perceived trainingSuccess.3,0.0007478039340941961
+km Z3-4.2,0.0007357231769471728
+nr. strength trainings.1,0.0007061492275138026
+km Z5-T1-T2.5,0.000642020677087865
+strength training_lag_1,0.0006260335310035864
+km Z5-T1-T2,0.0005424714808466569
+km Z3-4.6,0.0004985828848485391
+km sprinting.3,0.0004745973022684813
+perceived recovery.5,0.0004603413989703875
+max training success.2,0.0004319711459007114
+hours alternative.2,0.00035018443730924775
+perceived trainingSuccess.4,0.00030777382801103204
+perceived recovery.4,0.00029806118363581713
+avg exertion,0.0002764600073842244
+hours alternative.1,0.0002639231373959827
+total hours alternative training.1,0.00022270960095688297
+strength training,0.0002106477079256014
+km sprinting.6,9.274945566792314e-05
+perceived trainingSuccess_lag_1,8.74734018389417e-05
+strength training.2_roll3_std,3.618992717126235e-05
+rel total kms week 0_1,1.9438302356969417e-05
+stress_level_change_rate,0.0
+sleep_quality_roll7_mean,0.0
+training_duration_roll7_mean,0.0
+training_duration_roll7_std,0.0
+sleep_quality_roll7_std,0.0
+training_duration_change_rate,0.0
+training_load_lag_1,0.0
+training_load_roll3_mean,0.0
+training_load_roll3_std,0.0
+Player_Age,0.0
+sleep_quality_roll3_std,0.0
+sleep_quality_change_rate,0.0
+sleep_quality_roll3_mean,0.0
+training_load_roll7_mean,0.0
+sleep_quality_lag_1,0.0
+training_load_roll7_std,0.0
+Previous_Injuries,0.0
+Player_Height,0.0
+heart_rate,0.0
+training_duration_roll3_std,0.0
+recovery_score_lag_1,0.0
+training_intensity_lag_1,0.0
+training_duration_roll3_mean,0.0
+stress_level_roll7_std,0.0
+stress_level_roll7_mean,0.0
+stress_level_roll3_std,0.0
+stress_level_roll3_mean,0.0
+training_intensity_roll3_std,0.0
+stress_level_lag_1,0.0
+training_intensity_roll7_mean,0.0
+recovery_score_change_rate,0.0
+recovery_score_roll7_std,0.0
+recovery_score_roll7_mean,0.0
+training_load_change_rate,0.0
+recovery_score_roll3_std,0.0
+training_intensity_roll7_std,0.0
+training_intensity_change_rate,0.0
+training_duration_lag_1,0.0
+recovery_score_roll3_mean,0.0
+Player_Weight,0.0
+training_intensity_roll3_mean,0.0
+athlete_id,0.0
+fatigue_index_lag_1,0.0
+Training_Intensity_lag_1,0.0
+Recovery_Time_roll7_mean,0.0
+Recovery_Time_roll7_std,0.0
+Recovery_Time_change_rate,0.0
+Stress_Level_lag_1,0.0
+Stress_Level_roll3_mean,0.0
+Stress_Level_roll3_std,0.0
+Stress_Level_roll7_mean,0.0
+Stress_Level_roll7_std,0.0
+Stress_Level_change_rate,0.0
+Training_Intensity_roll3_mean,0.0
+Recovery_Time_roll3_mean,0.0
+Training_Intensity_roll3_std,0.0
+Training_Intensity_roll7_mean,0.0
+Training_Intensity_roll7_std,0.0
+Training_Intensity_change_rate,0.0
+load_recovery_ratio,0.0
+fatigue_sleep_pressure,0.0
+intensity_duration_load,0.0
+intensity_recovery_pressure,0.0
+stress_sleep_pressure,0.0
+Recovery_Time_roll3_std,0.0
+Recovery_Time_lag_1,0.0
+fatigue_index_roll3_mean,0.0
+Training_Frequency_change_rate,0.0
+fatigue_index_roll3_std,0.0
+fatigue_index_roll7_mean,0.0
+fatigue_index_roll7_std,0.0
+fatigue_index_change_rate,0.0
+Training_Frequency_lag_1,0.0
+Training_Frequency_roll3_mean,0.0
+Training_Frequency_roll3_std,0.0
+Training_Frequency_roll7_mean,0.0
+Training_Frequency_roll7_std,0.0
+Training_Duration_lag_1,0.0
+Sleep_Hours_change_rate,0.0
+Training_Duration_roll3_mean,0.0
+Training_Duration_roll7_mean,0.0
+Training_Duration_roll7_std,0.0
+Training_Duration_change_rate,0.0
+Sleep_Hours_lag_1,0.0
+Sleep_Hours_roll3_mean,0.0
+Sleep_Hours_roll3_std,0.0
+Sleep_Hours_roll7_mean,0.0
+Sleep_Hours_roll7_std,0.0
+Training_Duration_roll3_std,0.0
+heart_recovery_pressure,0.0
+Age,0.0
+Muscle_Asymmetry,0.0
+Warmup_Time,0.0
+strength training.6,0.0
+training_intensity,0.0
+Recovery_Time,0.0
+training_duration,0.0
+training_load,0.0
+fatigue_index,0.0
+session_id,0.0
+sport_type,0.0
+Flexibility_Score,0.0
+Injury_History,0.0
+gender,0.0
+age,0.0
+bmi,0.0
+Gender,0.0
+Height_cm,0.0
+Weight_kg,0.0
+BMI,0.0
+Sleep_Hours,0.0
+Training_Frequency,0.0
+altitude,0.0
+playing_surface,0.0
+Stress_Level,0.0
+step_count,0.0
+body_temperature,0.0
+hydration_level,0.0
+sleep_quality,0.0
+recovery_score,0.0
+stress_level,0.0
+muscle_activity,0.0
+joint_angles,0.0
+gait_speed,0.0
+humidity,0.0
+cadence,0.0
+Training_Intensity,0.0
+jump_height,0.0
+ground_reaction_force,0.0
+range_of_motion,0.0
+ambient_temperature,0.0
+Training_Duration,0.0
+hours alternative,-7.821462513796229e-06
+max km Z3-4 one day,-2.942821701613918e-05
+strength training.2,-5.6503558680101595e-05
+perceived recovery.1_roll7_std,-9.146286294323125e-05
+hours alternative.5,-0.00010729644888429757
+km sprinting.1,-0.00014688538878133983
+strength training.5,-0.0002043077808659699
+perceived recovery.1_change_rate,-0.0002173001586523865
+perceived exertion.4,-0.00031525348596729563
+hours alternative.3,-0.00045218866272547786
+strength training.1_roll3_std,-0.0004905436934908858
+km sprinting.4,-0.0005231349429384025
+strength training.1_roll7_std,-0.000540879573901934
+nr. sessions,-0.0005823425719804209
+perceived recovery.3,-0.0008564981872547367
+km sprinting,-0.0008895225463228379
+km Z3-4.1,-0.0013414134970407832
+nr. sessions.2,-0.0013527691642736955
+total km Z5-T1-T2,-0.0014043930642260172
+km sprinting.5,-0.001522113382479276
+strength training.1_change_rate,-0.001593936374791105
+perceived recovery_roll7_mean,-0.0016226164244107777
+km Z3-4.4,-0.0017445850866946305
+strength training.2_change_rate,-0.001822358603104951
+strength training.3,-0.001855604291867624
+perceived recovery.1_roll3_std,-0.00187391885644822
+perceived exertion.2_roll7_std,-0.0019705206980937667
+total km Z5-T1-T2.1,-0.0020902044311047613
+nr. sessions.5,-0.002091087055242191
+rel total kms week 1_2,-0.0021791617637151595
+perceived trainingSuccess.1_roll7_std,-0.0023994290458780876
+perceived exertion.3,-0.0026261242771242616
+perceived exertion.1,-0.0029302964024826156
+perceived recovery.1,-0.0033411320829324215
+perceived exertion.2,-0.0033576423372463082
+total km.5,-0.003613071059903772
+avg training success.1,-0.0036560363792248335
+max km one day,-0.0037380810229455524
+km sprinting.2,-0.003795627899126186
+avg training success,-0.0037960240278114565
+km Z3-4,-0.003901213568202111
+min recovery.2,-0.0039689042363797306
+nr. rest days,-0.004029390187739512
+nr. days with interval session.2,-0.004214612930366873
+strength training_roll3_mean,-0.004385053065677547
+Date,-0.004570414969906969
+avg recovery,-0.004710968610896302
+km Z5-T1-T2.6,-0.005147860547445635
+perceived trainingSuccess.2_roll3_std,-0.005238319833604843
+max km Z5-T1-T2 one day.1,-0.00530129037295804
+perceived exertion.2_roll3_std,-0.005451219844503766
+perceived trainingSuccess.1,-0.005489621230108335
+nr. strength trainings.2,-0.005664458344595391
+strength training.1_roll3_mean,-0.006053403524712106
+nr. rest days.2,-0.006176325558954893
+km Z5-T1-T2.3,-0.006226878970694391
+min exertion.1,-0.006276519340276038
+total km Z3-Z4-Z5-T1-T2.2,-0.006361135764153356
+perceived exertion.5,-0.0063791204538128365
+perceived exertion.2_change_rate,-0.006746895581665413
+strength training.1_roll7_mean,-0.00686208871698793
+perceived exertion.1_lag_1,-0.006886347776569948
+km Z3-4.5,-0.006927510933909392
+perceived exertion_change_rate,-0.0069517919642464315
+perceived exertion,-0.007083958983829575
+perceived trainingSuccess_roll7_mean,-0.007102951086062917
+max exertion.2,-0.007166810291253545
+strength training_roll7_std,-0.007174048264996208
+perceived exertion_roll7_std,-0.0073035920009029
+km Z5-T1-T2.2,-0.0077538244839227555
+max km one day.2,-0.007962257054517571
+total km Z3-Z4-Z5-T1-T2.1,-0.008589772649506278
+nr. days with interval session.1,-0.008779705498181023
+max recovery.2,-0.00888899512530697
+total km.1,-0.008914846161341111
+total km Z3-4.2,-0.009919096422026458
+nr. days with interval session,-0.010081231453104203
+perceived recovery.2,-0.010210375031310101
+total kms,-0.010468667862805883
+total hours alternative training,-0.01078162849605474
+min recovery.1,-0.011174551439402158
+avg exertion.1,-0.011309328171540511
+perceived exertion.2_roll7_mean,-0.011615525734359797
+perceived exertion.2_lag_1,-0.011894399055069671
+total hours alternative training.2,-0.012452763193129851
+max km Z3-4 one day.2,-0.012552361877171833
+"nr. tough sessions (effort in Z5, T1 or T2).1",-0.012623152263217807
+perceived exertion.1_roll3_std,-0.012683906117407218
+perceived recovery_roll3_std,-0.012725015285254312
+avg recovery.2,-0.012782135161025998
+max km Z3-4 one day.1,-0.012890839849108798
+min training success.2,-0.01363350505122532
+total km Z3-4.1,-0.013640918720806888
+strength training.2_roll7_std,-0.0136796461296185
+km Z5-T1-T2.4,-0.014188163724015518
+perceived trainingSuccess,-0.014377299082776546
+max training success.1,-0.014481997679109904
+perceived exertion_roll7_mean,-0.014627209785956913
+nr. strength trainings,-0.01466789238307753
+perceived recovery_change_rate,-0.014792842950420437
+perceived exertion_roll3_std,-0.015283620813883514
+rel total kms week 0_2,-0.015302693610920903
+total kms.2,-0.015669796285108756
+perceived recovery.1_lag_1,-0.01611780544075095
+perceived recovery_roll7_std,-0.0162102623155925
+max km Z5-T1-T2 one day,-0.016541600283674407
+avg recovery.1,-0.016761147234829937
+total kms.1,-0.016766405712412072
+min exertion,-0.017059647396836297
+"nr. tough sessions (effort in Z5, T1 or T2).2",-0.017161692844606724
+nr. rest days.1,-0.01783602062807707
+max km one day.1,-0.017962496017756152
+nr. sessions.1,-0.018050460888069497
+max training success,-0.01815387456599235
+"nr. tough sessions (effort in Z5, T1 or T2)",-0.018538198808448425
+perceived exertion.1_roll7_mean,-0.018643856936847003
+min recovery,-0.01869875269711488
+min training success.1,-0.018923744695464956
+perceived trainingSuccess.1_roll3_mean,-0.01893954783613111
+perceived exertion.2_roll3_mean,-0.019962295138200886
+avg training success.2,-0.020226979189687966
+avg exertion.2,-0.02023344695294979
+max recovery,-0.021119956702344678
+max recovery.1,-0.022047986275625042
+total km Z3-4,-0.022367986871496964
+perceived trainingSuccess.2,-0.022481579257034257
+Athlete ID,-0.022546462909643433
+min training success,-0.022882279054793953
+min exertion.2,-0.02784367232754359
+max exertion.1,-0.028293854240179467
+total km Z3-Z4-Z5-T1-T2,-0.03048797061292799

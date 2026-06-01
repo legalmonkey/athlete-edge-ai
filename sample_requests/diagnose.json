@@ -1,0 +1,30 @@
+{
+  "user_id": "demo-athlete-001",
+  "athlete_profile": {
+    "age": 22,
+    "gender": "Female",
+    "sport": "Soccer",
+    "competition_level": "District"
+  },
+  "pain_location": "knee",
+  "onset": "sudden",
+  "symptoms": {
+    "pain_severity": 8,
+    "swelling": true,
+    "instability": true,
+    "popping_sound": true,
+    "reduced_range_of_motion": true,
+    "weight_bearing_ability": "difficult"
+  },
+  "mechanism": {
+    "twisting": true,
+    "cutting": true
+  },
+  "risk_model_output": {
+    "injury_risk_probability": 0.82,
+    "fatigue_score": 76,
+    "workload_spike": 18,
+    "sleep_quality": 52,
+    "recovery_index": 43
+  }
+}
