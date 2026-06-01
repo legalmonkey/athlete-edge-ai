@@ -1,16 +1,9 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "functions": {
-    "api/index.py": {
-      "maxDuration": 60,
-      "includeFiles": "{models/injury_risk_pipeline.joblib,app/frontend/**,src/**,knowledge_base/**,config.yaml}",
-      "excludeFiles": "{data/**,outputs/**,outputs_smoke/**,models_smoke/**,catboost_info/**,tests/**,sample_requests/**,notebooks/**,.pytest_cache/**,**/__pycache__/**,**/*.pyc,*.xlsx,*.csv}"
-    }
-  },
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/api/index.py"
+      "destination": "/"
     }
   ]
 }
